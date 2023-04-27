@@ -17,7 +17,7 @@ module.exports = (sequelize, dataTypes) => {
             allowNull:false,
         },
         awards: {
-            type: dataTypes.INT(10).UNSIGNED,
+            type: dataTypes.INTEGER(10).UNSIGNED,
             allowNull:false,
             defaultValue: 0
         },
