@@ -32,5 +32,6 @@ descripcion: El objetivo será el de únicamente listar y mostrar la informació
                     -listar todos los generos de la base de datos, cada genero debe ser un hipervinculo
                 -/genres/detail/:id(GET)
                     -detalle de cada genero, debe listar (id, name, ranking)
-    
+    desafio 4:
+        -crear el modelo de la tabla "actors"
             
