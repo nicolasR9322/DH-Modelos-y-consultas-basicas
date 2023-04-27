@@ -10,5 +10,8 @@ descripcion: El objetivo será el de únicamente listar y mostrar la informació
         -correr sequelize init en terminal
         -modificar el archivo config.js
 
-    
+    desafio 2:
+
+        -crear los modelos de "movies" y "genres"
+        -aclarar los nombres de las tablas, timestamps y todas las columnas con su tipo y constraints
     
